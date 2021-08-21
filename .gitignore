@@ -75,6 +75,12 @@ series
 cscope.*
 ncscope.*
 
+# out-kernel
+out
+phone_build.sh
+server_build.sh
+stic-jenkins
+
 # gnu global files
 GPATH
 GRTAGS
